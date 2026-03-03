@@ -60,6 +60,4 @@ This project is built with a production-ready structure and clean UI design.
 - Responsive UI
 - Modern Bootstrap Cards
 
----
-
-## 📂 Project Structure
+Note: This project is only For Demo Purpose.
